@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-09T20:56:57" hostname="LAPTOP-EVA" time="30.95">
+  <properties/>
+  <testcase name="Search for a automation course" classname="Academy Choucair" time="30.95"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@22e84231
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6322bb0a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@74ffc035
+ene. 09, 2021 3:56:58 P. M. org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+ene. 09, 2021 3:56:58 P. M. org.openqa.selenium.remote.DesiredCapabilities firefox
+INFORMACIÓN: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: true, browserName: firefox, firefox_profile: org.openqa.selenium.firefox..., headless: false, loggingPrefs: org.openqa.selenium.logging..., marionette: true, moz:firefoxOptions: {}, platform: ANY, version: }
+1610225820260	geckodriver	INFO	Listening on 127.0.0.1:9736
+1610225820963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\evyan\\AppData\\Local\\Temp\\rust_mozprofileauJhdS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1610225823672	Marionette	INFO	Listening on port 58976
+1610225824147	Marionette	WARN	TLS certificate errors will be ignored for this session
+ene. 09, 2021 3:57:04 P. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4278b4bc
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@14b74366
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3326f267
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@34b8f754
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2bd31dc7
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4dff8347
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@232d3e29
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@474137f3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@46965549
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4f78e75a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@770c8235
+JavaScript error: , line 0: uncaught exception: Object
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4389ea93
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1f6173ad
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]], Then he finds the course called resources
+| strCourse |
+| Metodología Bancolombia | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]], Then he finds the course called resources
+| strCourse |
+| Metodología Bancolombia | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]], Then he finds the course called resources
+| strCourse |
+| Metodología Bancolombia | [Then answer]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]], Then he finds the course called resources
+| strCourse |
+| Metodología Bancolombia | [Then answer]]
+1610225847878	Marionette	INFO	Stopped listening on port 58976
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for a automation course:Given than Rose wants to learn automation at the academy Choucair
+| strUser | strPassword |
+| 1067956564 | Choucair2021* | [Rose open up [Rose opens the Choucair academy page], Rose login [Rose clicks on button that shows us the form to Login, Rose enters '1067956564' into space where do we write the user, Rose enters 'Choucair2021*' into where do we write the password, Rose clicks on do to click to login]], When he search for the course on the choucair academy platform
+| strCourse |
+| Metodología Bancolombia | [Rose search [Rose clicks on select the category, Rose enters 'Metodología Bancolombia' into search the course, Rose clicks on click to search the course, Rose clicks on name of the course]], Then he finds the course called resources
+| strCourse |
+| Metodología Bancolombia | [Then answer]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Search for a automation course
+----------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
